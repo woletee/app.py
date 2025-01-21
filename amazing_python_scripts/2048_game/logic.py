@@ -1,4 +1,4 @@
-     
+import random   
 def get_start_game():
     mat=[]
     for i in range(4):
