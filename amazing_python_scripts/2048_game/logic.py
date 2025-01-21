@@ -62,3 +62,11 @@ def transpose(mat):
         for j in range(4):
             new_mat[i].append(mat[i][j])
     return new_mat
+def move_right(mat):
+    pass
+def move_left():
+    pass
+def move_up():
+    pass
+def move_down():
+    pass
