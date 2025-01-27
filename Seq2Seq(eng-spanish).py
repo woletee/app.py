@@ -356,3 +356,4 @@ rouge_2_f1 = rouge_2_result["f1_score"].numpy()
 
 print(f"ROUGE-1 Precision: {rouge_1_precision:.3f}, Recall: {rouge_1_recall:.3f}, F1 Score: {rouge_1_f1:.3f}")
 print(f"ROUGE-2 Precision: {rouge_2_precision:.3f}, Recall: {rouge_2_recall:.3f}, F1 Score: {rouge_2_f1:.3f}")
+import numpy as np
